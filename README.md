@@ -1,9 +1,8 @@
 <div>
   <h1>Daniel Simonian's Profile</h1>
   <h2>Welcome to my dev page</h2>
-  <p>I am a versatile professional with a strong foundation in problem-solving, technical skills, and creative collaboration. My background in music production, teaching, and working with various software tools has honed my analytical skills and attention to detail—key qualities I bring to programming. With extensive experience collaborating in diverse teams, I thrive in environments where creativity and teamwork are essential.
-
-I am currently transitioning into the tech industry, where I am studying Web Development (Front and Back End) and Mobile Development at SENAC. I have earned a diploma and gained hands-on experience as a Junior Front-End Developer. Driven by a passion for continuous learning and adaptability, I thrive on taking on new challenges and am excited to apply my skills in a web development role.</p>
+  <p>Musician and Advertising Professional transitioning into the tech industry, with solid experience in creative collaboration, problem-solving, and technical skills developed through music production and teaching. Currently expanding my knowledge in Technology at SENAC - Santos and PUC-RS, aiming to apply analytical and collaborative skills in a dynamic role in web development.
+</p>
 </div>
 
 <div>
