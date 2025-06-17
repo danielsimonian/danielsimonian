@@ -1,7 +1,11 @@
 <div>
   <h1>Daniel Simonian's Profile</h1>
   <h2>Welcome to my dev page</h2>
-  <p>Musician and Advertising Professional transitioning into the tech industry, with solid experience in creative collaboration, problem-solving, and technical skills developed through music production and teaching. Currently expanding my knowledge in Technology at SENAC - Santos and PUC-RS, aiming to apply analytical and collaborative skills in a dynamic role in web development.
+  <p>I’m Daniel Simonian, a creative professional transitioning from a career in music and advertising to web and mobile development. With a strong background in creative collaboration, problem-solving, and technical skills developed through years of music production and teaching, I’m currently expanding my expertise in Full Stack and Mobile Development at SENAC - Santos and PUC-RS.
+
+I’m the founder of Dama Digital, where I create websites, digital content, and multimedia solutions tailored to client needs. My technical skill set includes HTML, CSS, JavaScript, PHP, SQL, and React Native, along with experience in design tools and audio/video production.
+
+I’m passionate about technology, always eager to learn new tools and frameworks, and looking for opportunities where I can combine my creative background with analytical thinking to build meaningful digital experiences.
 </p>
 </div>
 
