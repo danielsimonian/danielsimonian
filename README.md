@@ -8,9 +8,3 @@ I’m the founder of Dama Digital, where I create websites, digital content, and
 I’m passionate about technology, always eager to learn new tools and frameworks, and looking for opportunities where I can combine my creative background with analytical thinking to build meaningful digital experiences.
 </p>
 </div>
-
-<div>
-  <a href="https://github.com/danielsimonian/">
-    <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsimonian&layout=compact&langs_count=10&card_width=320&theme=github_dark" />
-  </a>
-</div>
